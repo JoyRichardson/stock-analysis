@@ -25,7 +25,8 @@ Using our file with a new script to be refactored,
 * We wrote `If-then` statements to assign starting and end prices and to increase the tickerIndex.
 * We used a `for` loop to loop through the arrays to output ther results.
 ### Comparisons
-We ran the refactored 2017 and 2018 stock analysis, confirming the outputs were the same as our previous analysis.  We also saved and included the pop-up messages with the timer messages.
+We ran the refactored 2017 and 2018 stock analysis, confirming the outputs were the same as our previous analysis.  We also saved and included the pop-up messages with the timer messages as shown below.
+
 ![](VBA_Challenge_2017.png)
 ![](VBA_Challenge_2018.png)
 ## Summary
